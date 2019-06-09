@@ -1,0 +1,16 @@
+[
+{
+  "modid": "TFAtlas",
+  "name": "TFAtlas",
+  "description": "Mapping addon for TerraFirmaCraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Dinglydell"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
