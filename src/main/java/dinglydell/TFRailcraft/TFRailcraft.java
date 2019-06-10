@@ -52,6 +52,8 @@ public class TFRailcraft
 		RollingMachineCraftingManager.getInstance().addRecipe(RailcraftItem.rail.getStack(8, 4), new Object[] { "s s", "s s", "s s", 's', TFCItems.blackSteelIngot});
 		
 		RollingMachineCraftingManager.getInstance().addRecipe(RailcraftItem.rail.getStack(8, 1), new Object[] { "trg", "trg", "trg", 't', RailcraftItem.rail.getStack(1, 0), 'r', Items.redstone, 'g', TFCItems.goldIngot});
+
+		RollingMachineCraftingManager.getInstance().addRecipe(RailcraftItem.rail.getStack(8, 3), new Object[] { "trg", "trg", "trg", 't', RailcraftItem.rail.getStack(1, 4), 'r', Items.redstone, 'g', TFCItems.goldIngot});
 		
 	}
 	private void registerItems() {
