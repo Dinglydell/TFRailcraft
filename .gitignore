@@ -1,5 +1,6 @@
 /textures
 eclipse/*
+!eclipse/scripts
 !eclipse/config/railcraft
 eclipse/config/railcraft/version.prop
 
